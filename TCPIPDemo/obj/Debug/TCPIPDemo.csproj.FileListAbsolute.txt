@@ -1,0 +1,10 @@
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe.config
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.pdb
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\bin\Debug\SimpleTCP.dll
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.frmServer.resources
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Properties.Resources.resources
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.GenerateResource.Cache
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.exe
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.pdb
+E:\DEV\CSharp\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csprojResolveAssemblyReference.cache
